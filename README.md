@@ -7,12 +7,16 @@ Overview of the important fees and capabilities for mobile carriers in Sweden
 
 ### Late payment fees
 - Re-opening phone: 200 SEK
-- No notification of re-opening fee
-- Invoicing fee: 49 SEK
+- Phone closed after: ?? after due date on invoice
+- (paper?) invoicing fee: 49 SEK
 
-### Supports email notifications: No
+### Supports email notifications/PDF invoice by email: no
 
-### Supports SMS notifications: No
+### Email notification after automatic payment: ??
+
+### CC payment of invoice: no
+
+### Supports SMS notifications: no
 
 ### How long are invoices available on the website?
 
@@ -23,17 +27,24 @@ Overview of the important fees and capabilities for mobile carriers in Sweden
 ## Relevant fees
 
 ### Late payment fees
-- Re-opening phone: ? SEK
-- Notification of re-opening fee: ??
-- Invoicing fee: ? SEK
+- Re-opening phone: Free
+- Phone closed after: 1 month after due date on invoice
+- Paper invoice fee: 45 SEK
 
-### Supports email notifications: ??
+### faktura efaktura/ pdf
 
-### Supports SMS notifications: ??
+49kr
+
+### Supports email notifications/PDF invoice by email: yes
+
+### Email notification after automatic payment: yes
+
+### CC payment of invoice: no
+
+### Supports SMS notifications: after autogiro payment only
 
 ### How long are invoices available on the website?
 
+12 months
+
 ### Invoicing companies: ??
-
-
-
