@@ -27,7 +27,7 @@ Overview of the important fees and capabilities for mobile carriers in Sweden
 ## Relevant fees
 
 ### Late payment fees
-- Re-opening phone: :+1:
+- Re-opening phone: Free :+1:
 - Phone closed after: 1 month after due date on invoice
 - Paper invoice fee: 45 SEK
 
