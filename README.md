@@ -8,7 +8,7 @@ Overview of the important fees and capabilities for mobile carriers in Sweden
 ### Late payment fees
 - Re-opening phone: 200 SEK :-1:
 - Phone closed after: ?? after due date on invoice
-- (paper?) invoicing fee: 49 SEK
+- (paper?) invoicing fee: 49 SEK :evergreen_tree:
 
 ### Supports email notifications/PDF invoice by email: :-1:
 
@@ -20,7 +20,13 @@ Overview of the important fees and capabilities for mobile carriers in Sweden
 
 ### How long are invoices available on the website?
 
-### Invoicing companies: Alektum and Intrum
+???
+
+### Debt collection companies used: Alektum and Intrum
+
+### Can you easily find status of a debt collection issue from their web site?
+
+:-1:
 
 # Tele2, business
 
@@ -29,11 +35,7 @@ Overview of the important fees and capabilities for mobile carriers in Sweden
 ### Late payment fees
 - Re-opening phone: Free :+1:
 - Phone closed after: 1 month after due date on invoice
-- Paper invoice fee: 45 SEK
-
-### faktura efaktura/ pdf
-
-49kr
+- Paper invoice fee: 45 SEK :evergreen_tree:
 
 ### Supports email notifications/PDF invoice by email: :+1:
 
@@ -45,6 +47,12 @@ Overview of the important fees and capabilities for mobile carriers in Sweden
 
 ### How long are invoices available on the website?
 
-12 months
+12 months :rage:
 
-### Invoicing companies: ??
+### Debt collection companies used: 
+
+:question:
+
+### Can you easily find status of a debt collection issue from their web site?
+
+:-1:
